@@ -1,1 +1,1 @@
-Texto do ficheiro file_54.txt
+Parece que você enviou apenas o texto "Texto do ficheiro file_54.txt". Por favor, forneça o código .Net que você deseja que seja traduzido para Java.

@@ -1,2 +1,1 @@
-# Initial Commit
-This is the first commit.
+It seems you haven't provided any .Net code to translate into Java. Please provide the .Net code that you would like me to convert, and I'll assist you accordingly!
